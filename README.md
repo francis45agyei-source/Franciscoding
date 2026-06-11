@@ -27,7 +27,7 @@
 </section>
 
 <footer>
-    <p>Group Name: Cloud Innovators</p>
+    <p>Group Name: Cloud Innovators </p>
 </footer>
 
 </body>
@@ -57,7 +57,7 @@ about.html
 
     <ul>
         <li>Francis Agyei Asiedu</li>
-        <li>Salim Ahmed</li>
+        <li>Ahmed Salim Saha Sufianu</li>
         <li>Boateng Nat</li>
         <li>Cyril Dziedjorm Fiadzo</li>
     </ul>
