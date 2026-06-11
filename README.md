@@ -23,7 +23,7 @@
         Welcome to our Cloud Computing Group Project Website.
     </p>
 
-    <img src="images/image.jpg" width="400">
+    <img src="C:\Users\AHMED SALIM SAHA\Pictures\GCTU LOGO.png" width="400">
 </section>
 
 <footer>
