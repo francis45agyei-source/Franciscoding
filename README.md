@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Cloud Computing Group Project</title>
+    <title>Cloud Computing Group Project GROUP WORK</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
